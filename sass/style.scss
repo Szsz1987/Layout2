@@ -1,0 +1,33 @@
+div {
+    border: 5px solid;
+    text-align: center;
+    padding: 5px;
+    box-sizing: border-box;
+}
+.header {
+    border-color: #2ecc71;
+}
+.container {
+    padding: 0;
+    width: 600px;
+    margin: 0 auto;
+}
+.nav {
+    border-color: #f1c40f;
+    height: 300px;
+    width: 120px;
+    float: left;
+}
+.content {
+    border-color: #f1c40f;
+    min-height: 600px;
+    margin-left: 120px;
+}
+.article {
+    border: none;
+    padding: 0 20px;
+    text-align: justify;
+}
+.footer {
+    border-color: #9b59b6;
+}
